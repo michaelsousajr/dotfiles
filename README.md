@@ -9,16 +9,22 @@
 - oh-my-posh
 - scripts for mac
 - amazon q
+- cava
 
 # Apps
 
 - ghostty
 - lazyvim
 - raycast
-- notion
 - arc
 - amazon q (term autocomplete)
 - figma
 - claude
 - spotify
 - kitty for images
+- chatgpt
+
+# Brew
+
+- cheatsheat
+- background-music
